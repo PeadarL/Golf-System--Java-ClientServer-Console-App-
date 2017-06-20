@@ -1,3 +1,3 @@
 # Golf-System--Java-ClientServer-Console-App-
 
-A server/client application used to register
+A client/server application used to register players and store their score as part of Golf Tournament.
